@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends for Louise. 
+Perform analysis for Louise, who is a playwright and forming a crowdfunding campaign for her new play, 'Fever'.
 ## Overview of Project
 Louise is looking to start a crowdfunding campaign to help fund her play, Fever. She wants to raise money for production with a budget of $10,000. Louise wants to know how other similar plays resulted with their campaigns based on their launch dates and fundraising goals. 
 ### Purpose of Analysis
