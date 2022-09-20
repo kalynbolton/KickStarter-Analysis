@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends for Louise. Bootcamp module #1
+Performing analysis on Kickstarter data to uncover trends for Louise. 
 ## Overview of Project
 Louise is looking to start a crowdfunding campaign to help fund her play, Fever. She wants to raise money for production with a budget of $10,000. Louise wants to know how other similar plays resulted with their campaigns based on their launch dates and fundraising goals. 
 ### Purpose of Analysis
@@ -27,3 +27,5 @@ This analysis showed that the most successful plays had goals of less than 1000 
 I noticed a couple limitations while conducting this analysis. First, where did our original data come from and how do we now it has all the data needed to make a valid argument for Louise? Second, we did not filter by country in the Outcomes Based on Goals table so I believe there could be different currencies involved, which in turn would cause the data to possibly look different. 
 
 Some other tables to be made for further analysis could be to do a similar Outcomes Based on Goals table but with the filter usng where Louise wanted to have her play, whether that be Great Britain or the U.S.. Also, if possible to gather data on genre-specfic plays and figure out if Louise's play Fever would be more popular based on its genre in certain areas. 
+
+Module #1 in Data Analytics Bootcamp.
